@@ -1,9 +1,8 @@
-
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: "https://JuanIgnaciosj.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +11,7 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl:
 
 # Google tracking id
 
@@ -29,18 +28,18 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+author: "Juan Ignacio Saavedra Jeria"
+title: "JuanIgnacio"
+description: "Blog and website from Juan Ignacio, blogging mainly for data and tech. Opinion expressed are mine"
+keywords: "juan ignacio saavedra, juan saavedra, datascience, BI"
+favicon: "/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/author.png" # leave blank if you don't want a logo
+black-favicon: "/img/black-lab-glass.ico" ## [2023-07-16] HAY QUE CAMBIARLO
+logo: "" # leave blank if you don't want a logo /img/author.png
 
 background-img: "../img/intro-bg.jpg"
 
@@ -56,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Hello! This is a Test Blog, in this moment it's under development"
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+##me-img: "/img/jetpacktocat.png" ## [2023-07-16] CORRESPONDE A LA IMAGEN DE DEL LOGO QUE QUEDA REFERENCIADA COMO LOCAL
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -72,7 +71,7 @@ me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+me-img: "https://github.com/juanignaciosj.png?size=500" ## CORRESPONDE A MI IMAGEN DE GITHUB
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -84,7 +83,8 @@ me-img: "/img/jetpacktocat.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+
+color-browser: "#331D2C" ##"#000000"
 apple-status-bar-style: "black"
 
 ################
@@ -147,8 +147,8 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
-
+whatsapp: whatsapp-button
+email: "juan.saavedra.j@mail.pucv.cl"
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
@@ -176,9 +176,13 @@ social:
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://blockchain.info/address/1A5iVAq4w1pXZpzeJLVt3isqPDMudW3HfE"
+  - title: "whatsapp"
+    url: "https://wa.me/56957901955"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/juanignaciosj/"
+##  - title: "rss"
+##    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -190,9 +194,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+##keybase-username: johnsmith
+##keybase-in-social: True
+##keybase-in-footer: True
 
 ################################################################################
 
@@ -201,10 +205,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  About: "about"
+  Blog: "latest-post"
+  Timeline: "timeline"
+  Contact: "contact"
 
 # Exclusion list from the generated _site
 
