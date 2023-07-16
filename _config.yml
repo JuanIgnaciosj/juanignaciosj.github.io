@@ -27,11 +27,11 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
+lang: "es"
 author: "Juan Ignacio Saavedra Jeria"
-title: "JuanIgnacio"
+title: "{ Juan Ignacio }"
 description: "Blog and website from Juan Ignacio, blogging mainly for data and tech. Opinion expressed are mine"
-keywords: "juan ignacio saavedra, juan saavedra, datascience, BI"
+keywords: "juanignaciosj, JuanIgnacio93 , juan, datascience, BI"
 favicon: "/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
 
 ################
@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
 ################
 
 black-favicon: "/img/black-lab-glass.ico" ## [2023-07-16] HAY QUE CAMBIARLO
-logo: "" # leave blank if you don't want a logo /img/author.png
+logo: "/img/author.png" # leave blank if you don't want a logo /img/author.png
 
 background-img: "../img/intro-bg.jpg"
 
