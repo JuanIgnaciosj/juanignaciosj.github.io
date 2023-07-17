@@ -6,20 +6,28 @@ category: Miscelaneo
 tags: ["PrimerPost", "Meaning"]
 ---
 
-Hello! Este Blog ha sido creado con la finalidad de consolidar todo mi conocimiento, experimento y estudios de los últimos años en un solo lugar. Si bien principalmente para ordenar, trakear y consolidar todo el proceso en mi formación como data scientist.
+Hola! He creado este blog con la finalidad de consolidar el conocimiento que he ido adquiriendo durante los últimos años en un lugar mucho más ordenado.
+Si bien, el principal objetivo de esto es consolidar, ordenar y además trackear todo el camino recorrido durante los últimos 3 años, tambien es dar una mayor perspectiva y solidez al track que planeo seguir en mi formacion como data scientist.
+
+Desde la pandemia, comencé estudiando diferentes temáticas; principalmente asociadas a negocios, análisis de datos y machine learning. Tambien de forma personal he desarrollado algunos proyectos (No asociados a data pero si a desarrollo) que tangencialmente han sido una ayuda en este mundo. De estos proyectos, el más destacabale es uno que actualmente tengo
+
+mi conocimiento, experimento y estudios de los últimos años en un solo lugar. Si bien principalmente para ordenar, trakear y consolidar todo el proceso en mi formación como data scientist.
 Desde la pandemia, comencé a estudiar diferentes temáticas asociadas a desarrollo (entre otras no extensibles a este tema), ademàs de manera personal el desarrollo de algunos pequeños proyectos personales. Que si bien, no corresponden principalmente a tematicas asociadas a la analítica, se encuentran ligado a ella.
 
 Es probable que en los primeros post de este blog te encuentres algunos desarrollos directamente implementados hacia la Raspberry Pi. Desde la pandemia comencé con este pequeño proyecto que era solamente tener un servidor disponible en mi casa, que al día de hoy se ve asi
 
 ![Image1](/assets/images/Post1_img1.jpg)
 
-Sin contar que me ha permitido desarrollar una <a href="https://openvpn.net/" target="\_blank">VPN</a>, mantener mi propio <a href="https://bitwarden.com/" target="\_blank">VaultWarden</a> y mi propia instancia de <a href="https://nextcloud.com/es/" target="\_blank">NextCloud</a> para compartir archivos (Sin contar que mi iPad se pudo convertir en mi main tool de desarrollo y con app 300 grs de peso)
-Entregandome el siguiente resultado:
+Sin contar que me ha permitido desarrollar una <a href="https://openvpn.net/" target="\_blank">VPN</a>, mantener mi propia instancia de <a href="https://bitwarden.com/" target="\_blank">VaultWarden</a> (que en estricto rigor es una caja fuerte) y mi propia instancia de <a href="https://nextcloud.com/es/" target="\_blank">NextCloud</a> para compartir archivos.
+Todo lo anterior sin contar que mi iPad se pudo convertir en mi main tool de desarrollo y con menos de 300 grs de peso
+
+Viendose algo asi el siguiente resultado:
 
 ![Image2](/assets/images/Post1_img2.jpg)
 
-Si bien, el objetivo de este blog es consolidar el conocimiento adquirido a través del track a seguir como data scientist. Es posible que tambien incorpore algunos tutoriales sobre lo anterior, tanto a modo de recordatorio (y mantener asi un repositorio) como de manera informativa, ya que, me ha permitido tambien tener una segunda pantalla portable para desarrollar donde vaya. (Algo que a mas de uno le podria servir)
+Si bien, el objetivo de este blog es consolidar el conocimiento adquirido a través del track a seguir como data scientist, ya sea con codigos y libros.
+Es posible que tambien incorpore algunos tutoriales asociados sobre DevOps con la Raspberry Pi dado que, me ha entregado una serie de conocimientos y herramientas que han sido sin dudas complementarios en este camino
 
-Sin mas.
+Por lo que es muy probable que mi segunda entrada considere sin duda una pequeña introduccion de este hardware que tantas hora de entretencion me ha dado.
 
 Let's to work!
