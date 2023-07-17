@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello! This is a Test Blog, in this moment it's under development"
-  - text: "Where’s your will to be weird?"
+  - text: "Asi que es muy problable que encuentres muchos errores como cosas escritas en dos idiomas"
 
 ##me-img: "/img/jetpacktocat.png" ## [2023-07-16] CORRESPONDE A LA IMAGEN DE DEL LOGO QUE QUEDA REFERENCIADA COMO LOCAL
 
