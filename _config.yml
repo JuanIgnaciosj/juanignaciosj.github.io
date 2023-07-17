@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
 ################
 
 black-favicon: "/img/black-lab-glass.ico" ## [2023-07-16] HAY QUE CAMBIARLO
-logo: "/img/author.png" # leave blank if you don't want a logo /img/author.png
+logo: "img/author.png" # leave blank if you don't want a logo /img/author.png
 
 background-img: "../img/intro-bg.jpg"
 
