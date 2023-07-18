@@ -14,7 +14,7 @@ Desde la pandemia, comencé estudiando diferentes temáticas; principalmente aso
 ![Image1](/assets/images/Post1_img1.jpg)
 
 Sin contar que me ha permitido desarrollar una <a href="https://openvpn.net/" target="\_blank">VPN</a>, mantener mi propia instancia de <a href="https://bitwarden.com/" target="\_blank">VaultWarden</a> (que en estricto rigor es una caja fuerte) y mi propia instancia de <a href="https://nextcloud.com/es/" target="\_blank">NextCloud</a> para compartir archivos.
-Todo lo anterior sin contar que mi iPad se pudo convertir en mi main tool de desarrollo y con menos de 300 grs de peso
+Todo lo anterior,administrado y hosteado por mi. Sin contar que mi iPad Air, se convirtió en mi Main Tool de desarrollo (Y con exactamente las mismas funcionalidades de un PC convencional) y en menos de 300 grs
 
 Viendose algo asi el siguiente resultado:
 
