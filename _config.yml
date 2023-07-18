@@ -123,7 +123,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "Blog de JuanIgnacio"
 
 syntax-highlight: True
 
@@ -169,20 +169,20 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+  # - title: "facebook"
+  #   url: "https://facebook.com/"
+  # - title: "twitter"
+  #   url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/JuanIgnaciosj"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1A5iVAq4w1pXZpzeJLVt3isqPDMudW3HfE"
   - title: "whatsapp"
     url: "https://wa.me/56957901955"
   - title: "linkedin"
-    url: "https://www.linkedin.com/juanignaciosj/"
-##  - title: "rss"
-##    url: "/feed.xml"
+    url: "https://www.linkedin.com/in/juanignaciosj/"
+  - title: "rss"
+    url: "/feed.xml"
 
 ############
 # 404 page #
