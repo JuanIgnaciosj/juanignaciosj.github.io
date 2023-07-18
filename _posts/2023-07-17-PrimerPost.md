@@ -9,12 +9,7 @@ tags: ["PrimerPost", "Meaning"]
 Hola! He creado este blog con la finalidad de consolidar el conocimiento que he ido adquiriendo durante los últimos años en un lugar mucho más ordenado.
 Si bien, el principal objetivo de esto es consolidar, ordenar y además trackear todo el camino recorrido durante los últimos 3 años, tambien es dar una mayor perspectiva y solidez al track que planeo seguir en mi formacion como data scientist.
 
-Desde la pandemia, comencé estudiando diferentes temáticas; principalmente asociadas a negocios, análisis de datos y machine learning. Tambien de forma personal he desarrollado algunos proyectos (No asociados a data pero si a desarrollo) que tangencialmente han sido una ayuda en este mundo. De estos proyectos, el más destacabale es uno que actualmente tengo
-
-mi conocimiento, experimento y estudios de los últimos años en un solo lugar. Si bien principalmente para ordenar, trakear y consolidar todo el proceso en mi formación como data scientist.
-Desde la pandemia, comencé a estudiar diferentes temáticas asociadas a desarrollo (entre otras no extensibles a este tema), ademàs de manera personal el desarrollo de algunos pequeños proyectos personales. Que si bien, no corresponden principalmente a tematicas asociadas a la analítica, se encuentran ligado a ella.
-
-Es probable que en los primeros post de este blog te encuentres algunos desarrollos directamente implementados hacia la Raspberry Pi. Desde la pandemia comencé con este pequeño proyecto que era solamente tener un servidor disponible en mi casa, que al día de hoy se ve asi
+Desde la pandemia, comencé estudiando diferentes temáticas; principalmente asociadas a negocios, análisis de datos y machine learning. Tambien de forma personal he desarrollado algunos proyectos (No asociados a data pero si a desarrollo) que tangencialmente han sido una ayuda en este mundo. De estos proyectos, el mas destacable fue montar mi propio servidor durante la pandemiaw
 
 ![Image1](/assets/images/Post1_img1.jpg)
 
@@ -25,8 +20,8 @@ Viendose algo asi el siguiente resultado:
 
 ![Image2](/assets/images/Post1_img2.jpg)
 
-Si bien, el objetivo de este blog es consolidar el conocimiento adquirido a través del track a seguir como data scientist, ya sea con codigos y libros.
-Es posible que tambien incorpore algunos tutoriales asociados sobre DevOps con la Raspberry Pi dado que, me ha entregado una serie de conocimientos y herramientas que han sido sin dudas complementarios en este camino
+Si bien, es probable que en los primeros post de este blog te encuentres algunos desarrollos directamente implementados hacia la Raspberry Pi. Desde la pandemia comencé con este pequeño proyecto que era solamente tener un servidor disponible en mi casa, ha volcado en muchos otros proyectos el objetivo de este blog es consolidar el conocimiento adquirido (hasta hoy) y el que obtenga en mi camino de desarrollo como DS.
+Es posible que tambien incorpore algunos tutoriales asociados sobre DevOps con la Raspberry Pi dado que, me ha entregado una serie de conocimientos y herramientas que han sido sin dudas complementarios en este camino.
 
 Por lo que es muy probable que mi segunda entrada considere sin duda una pequeña introduccion de este hardware que tantas hora de entretencion me ha dado.
 
