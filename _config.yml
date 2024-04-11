@@ -30,9 +30,9 @@ force-https: True
 lang: "es"
 author: "Juan Ignacio Saavedra Jeria"
 title: "{ Juan Ignacio }"
-description: "Blog and website from Juan Ignacio, blogging mainly for data and tech. Opinion expressed are mine"
-keywords: "juanignaciosj, JuanIgnacio93 , juan, datascience, BI"
-favicon: "/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
+description: "Blog and website from Juan Ignacio SJ, blogging mainly for data and tech. Opinion expressed are mine"
+keywords: "juanignaciosj, JuanIgnacio93 , juan, datascience, BI, SQL, Python, RPI, RASPBERRY, Cloud, Programming"
+favicon: "/img/accuracy-16.ico" ##"/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
 
 ################
 # Header layout #

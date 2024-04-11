@@ -26,3 +26,13 @@ Es posible que tambien incorpore algunos tutoriales asociados sobre DevOps con l
 Por lo que es muy probable que mi segunda entrada considere sin duda una pequeña introduccion de este hardware que tantas hora de entretencion me ha dado.
 
 Let's to work!
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3WELVNPQDD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3WELVNPQDD');
+</script>
