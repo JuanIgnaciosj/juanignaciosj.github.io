@@ -30,7 +30,7 @@ force-https: True
 lang: "es"
 author: "Juan Ignacio Saavedra Jeria"
 title: "{ Juan Ignacio }"
-description: "Blog and website from Juan Ignacio SJ, blogging mainly for data and tech. Opinion expressed are mine"
+description: "Ingeniero de datos apasionado por la tecnología. Escribo sobre data science, DevOps, self-hosting y seguridad informática."
 keywords: "juanignaciosj, JuanIgnacio93 , juan, datascience, BI, SQL, Python, RPI, RASPBERRY, Cloud, Programming"
 favicon: "/img/accuracy-16.ico" ##"/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
 
@@ -55,8 +55,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Hello! This is a Test Blog, in this moment it's under development"
-  - text: "Asi que es muy problable que encuentres muchos errores como cosas escritas en dos idiomas"
+  - text: "Bienvenido a mi blog donde escribo tecnología y datos."
+  - text: "Actualmente me desarrollo como Product Manager con foco en datos y transformación digital."
+  - text: "Además cuento con experiencia como Data Engineer & BI Specialist 📊"
+  - text: "SQL · Python · Power BI · Azure"
+  - text: "Tambien sobre Self-hosting, DevOps y tecnología desde Santiago, Chile 🇨🇱"
 
 ##me-img: "/img/jetpacktocat.png" ## [2023-07-16] CORRESPONDE A LA IMAGEN DE DEL LOGO QUE QUEDA REFERENCIADA COMO LOCAL
 
@@ -132,12 +135,27 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/default.png"
+    date: "Noviembre 2025 – Presente"
+    description: "**Product Manager Sr.** en Santander Consumer Finance. Liderando transformación digital, flujos de negocio y experiencia de cliente."
+  - image: "/img/timeline/default.png"
+    date: "Abril 2022 – Octubre 2025"
+    description: "**Data Management & Inteligencia Comercial** en Santander Consumer Finance. Automatización de reportes, campañas de fidelización y analítica de clientes."
+  - image: "/img/timeline/default.png"
+    date: "Enero 2022 – Abril 2022"
+    description: "**Especialista BI** en Italfrenos SPA. Integración ERP–Azure, algoritmo ML de relacionamiento de productos y estudio de mercado aftermarket."
+  - image: "/img/timeline/default.png"
+    date: "Enero 2021 – Enero 2022"
+    description: "**Analista BI** en Italfrenos SPA. Implementación de Azure + Power BI y desarrollo de base de datos para cotización de productos y autmatización de compras recurrentes"
+  - image: "/img/timeline/default.png"
+    date: "2020 – Presente"
+    description: "**Proyecto personal: Servidor doméstico con Raspberry Pi.** VPN, Nextcloud, Vaultwarden — administrado y hosteado 100% por mí."
+  - image: "/img/timeline/default.png"
+    date: "2014 – 2018"
+    description: "**Ingeniero Civil Industrial**, Pontificia Universidad Católica de Valparaíso. Licenciado en Ciencias de la Ingeniería."
+  - image: "/img/timeline/default.png"
+    date: "2012 – 2013"
+    description: "**Bachiller en Ciencias**, PUCV. Egresado como mejor alumno de la generación."
 
 # First image of the Timeline
 
