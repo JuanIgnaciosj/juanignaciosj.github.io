@@ -20,9 +20,9 @@ $navbar-sm-background-color: $navbar-lg-collapse-background-color;
 
 $social-buttons-color: $secondary-color;
 
-// Colores de categorías del blog
-$cat-data:      #00cdff;  // Data / BI — cyan (mismo que secondary)
-$cat-devops:    #39d353;  // DevOps / Infra — verde terminal
-$cat-security:  #f0a500;  // Seguridad / Self-hosting — naranja ámbar
-$cat-business:  #a78bfa;  // Negocios / Finanzas — violeta suave
-$cat-personal:  #e2e8f0;  // Opinión / Personal — blanco roto
+/* Colores de categorias del blog */
+$cat-data:      #00cdff;
+$cat-devops:    #39d353;
+$cat-security:  #f0a500;
+$cat-business:  #a78bfa;
+$cat-personal:  #e2e8f0;
