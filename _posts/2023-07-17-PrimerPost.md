@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Primer Post
-category: Miscelaneo
+category: miscelaneo
 tags: ["PrimerPost", "Meaning"]
 ---
 
