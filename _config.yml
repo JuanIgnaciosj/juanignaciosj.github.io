@@ -161,7 +161,7 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Juan Ignacio es ingeniero especializado en datos y automatización de procesos. Le interesa entender cómo los datos pueden convertirse en decisiones reales y medibles dentro de las organizaciones.\n Desde Santiago de Chile, trabaja en proyectos de ingeniería de datos y mejora continua. En este blog comparte aprendizajes, herramientas y reflexiones sobre tecnología, automatización y seguridad de datos, con un fuerte enfoque en self-hosting."
+author_blurb: "Juan Ignacio es ingeniero especializado en datos y automatización de procesos. Interesado entender cómo los datos pueden convertirse en decisiones reales y medibles dentro de las organizaciones.<br><br> Desde Santiago de Chile, trabaja en proyectos de ingeniería de datos y mejora continua. En este blog comparte aprendizajes, herramientas y reflexiones sobre tecnología, automatización y seguridad de datos, con un fuerte enfoque en self-hosting."
 author_blurb_image: "/img/author.png"
 
 ##################
