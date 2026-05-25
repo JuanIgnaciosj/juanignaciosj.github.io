@@ -58,7 +58,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Bienvenido a mi blog sobre tecnología y datos."
   - text: "Product Manager con foco en datos y transformación digital."
-  - text: "Con experiencia como Data Engineer & BI Specialist 📊"
+  - text: "Con experiencia como Data Engineer &amp; BI Specialist 📊" ## Ojo que si no pongo el ampersand asi se cuelga todo
   - text: "Mi stack: SQL · Python · Power BI · Azure"
   - text: "Self-hosting, DevOps y tecnología desde Santiago, Chile 🇨🇱"
 
