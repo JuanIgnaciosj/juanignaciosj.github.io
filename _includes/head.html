@@ -13,8 +13,10 @@
   <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
 
   <!-- Open Graph / Twitter Card: previsualizacion al compartir el enlace -->
+  {% capture newline %}
+  {% endcapture %}
   {% capture og_title %}{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}{% endcapture %}
-  {% capture og_desc %}{% if page.excerpt %}{{ page.excerpt | replace: '</p>', '</p> ' | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+  {% capture og_desc %}{% if page.excerpt %}{{ page.excerpt | replace: '</p>', '</p> ' | strip_html | replace: newline, " " | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
   {% capture og_url %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
   <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
   <meta property="og:site_name" content="{{ site.title | escape }}">
