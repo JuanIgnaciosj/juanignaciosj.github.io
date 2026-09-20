@@ -137,7 +137,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/default.png"
-    date: "Noviembre 2025 – Presente"
+    date: "Septiembre 2025 – Presente"
     description: "**Product Manager Sr.** en Santander Consumer Finance. Liderando transformación digital, flujos de negocio y experiencia de cliente."
   - image: "/img/timeline/default.png"
     date: "Abril 2022 – Octubre 2025"
