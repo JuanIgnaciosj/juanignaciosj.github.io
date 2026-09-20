@@ -30,9 +30,18 @@ force-https: True
 lang: "es"
 author: "Juan Ignacio Saavedra Jeria"
 title: "{ Juan Ignacio }"
-description: "Ingeniero de datos apasionado por la tecnología || Product Manager - Product Development - Data Driven Products || Product Manager Senior ."
-keywords: "juanignaciosj, JuanIgnacio93 , juan, datascience, BI, SQL, Python, RPI, RASPBERRY, Cloud, Programming, Data Engineer, Product Manager, Product Development, Data Driven Products, Product Manager Senior, Product Manager Chile, Product Manager Santiago, Product Manager Remote, Product Manager Freelances, Product Manager Data, Product Manager Digital, Product Manager Analytics, Product Manager Business Intelligence, Product Manager Data Science, Product Manager Machine Learning, Product Manager AI, Product Manager Automation, Product Manager Cloud, Product Manager DevOps, Product Manager Self-hosting, Product Manager Open Source, Product Manager Technology, Product Manager Innovation, Product Manager Transformation, Product Manager Digital Transformation"
+description: "Product Manager Sr @ Santander Consumer Finance. Escribo sobre productos data-driven, ingeniería de datos, self-hosting y automatización."
+# El meta "keywords" esta desactivado a proposito: Google dejo de usarlo como
+# senal de ranking en 2009 y el relleno de terminos es un patron que los
+# buscadores tratan como spam. head.html ya no emite la etiqueta si falta.
+# keywords: "juanignaciosj, JuanIgnacio93, juan, datascience, BI, SQL, Python, RPI, RASPBERRY, Cloud, Programming, Data Engineer, Product Manager"
 favicon: "/img/accuracy-16.ico" ##"/img/favicon.ico" ## [2023-07-16] HAY QUE CAMBIARLO
+
+# Imagen de previsualizacion al compartir el enlace (LinkedIn, X, WhatsApp).
+# Debe ser URL absoluta. Hoy usa el avatar de GitHub, que es cuadrado; si algun
+# dia pones una imagen de 1200x630, cambia twitter:card a "summary_large_image"
+# en _includes/head.html.
+og-image: "https://github.com/juanignaciosj.png?size=500"
 
 ################
 # Header layout #
