@@ -30,7 +30,7 @@ force-https: True
 lang: "es"
 author: "Juan Ignacio Saavedra Jeria"
 title: "{ Juan Ignacio }"
-description: "Product Manager Sr @ Santander Consumer Finance. Escribo sobre productos data-driven, ingeniería de datos, self-hosting y automatización."
+description: "Product Manager Sr @ Santander Consumer Finance. Escribo sobre productos data-driven e ingeniería de datos, self-hosting y automatización."
 # El meta "keywords" esta desactivado a proposito: Google dejo de usarlo como
 # senal de ranking en 2009 y el relleno de terminos es un patron que los
 # buscadores tratan como spam. head.html ya no emite la etiqueta si falta.
