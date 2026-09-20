@@ -2,7 +2,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://JuanIgnaciosj.github.io"
+url: "https://juanignaciosj.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -202,7 +202,7 @@ social:
   # - title: "twitter"
   #   url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/JuanIgnaciosj"
+    url: "https://github.com/juanignaciosj"
   #- title: "bitcoin"
   #  url: "https://blockchain.info/address/1A5iVAq4w1pXZpzeJLVt3isqPDMudW3HfE"
   #- title: "whatsapp"
