@@ -166,7 +166,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-whatsapp: whatsapp-button
+#whatsapp: whatsapp-button
 email: "juan.saavedra.j@mail.pucv.cl"
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -194,10 +194,10 @@ social:
   #   url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/JuanIgnaciosj"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1A5iVAq4w1pXZpzeJLVt3isqPDMudW3HfE"
-  - title: "whatsapp"
-    url: "https://wa.me/56957901955"
+  #- title: "bitcoin"
+  #  url: "https://blockchain.info/address/1A5iVAq4w1pXZpzeJLVt3isqPDMudW3HfE"
+  #- title: "whatsapp"
+  #  url: "https://wa.me/56957901955"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/juanignaciosj/"
   - title: "rss"
